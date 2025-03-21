@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: td1t5a7my-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/td1t5a7my-go
